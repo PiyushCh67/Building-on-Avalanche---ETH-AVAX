@@ -27,7 +27,7 @@ To redeem a store item, call the redeemToken function. Provide the name of the i
 
 ## Authors
 
-@Shresth
+@PiyushChauhan
 
 
 
